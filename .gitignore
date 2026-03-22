@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+venv/
+env/
+*.env
+
+# Conda
+.conda/
+
+# Data (large files — use GEE or external storage)
+data/raw/
+data/processed/
+*.tif
+*.tiff
+*.nc
+*.h5
+*.hdf5
+*.geojson.bak
+
+# Results (regenerable — commit only final figures)
+results/tables/
+results/figures/*.png
+results/figures/*.pdf
+# Keep placeholder README
+!results/figures/.gitkeep
+!results/tables/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# GEE credentials
+credentials.json
+.config/earthengine/

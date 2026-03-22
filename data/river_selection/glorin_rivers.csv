@@ -1,0 +1,15 @@
+river_id,river_name,country,reach_name,lat_center,lon_center,altitude_m,mean_discharge_m3s,width_km_approx,climate_zone,koppen_class,annual_cloud_cover_pct,flood_peak_months,primary_challenge,selected
+R01,Amazon,Brazil,Manaus,-3.1,-60.0,40,120000,2-10,Tropical Rainforest,Af,>80,May-Jun,Cloud cover,YES
+R02,Congo,DRC,Kinshasa,-4.3,15.3,280,41000,4-14,Tropical Wet-Dry,Aw,>70,"Nov,May",Cloud cover + rapids,YES
+R03,Nile,Egypt,Luxor,25.7,32.6,80,2800,0.5-1.5,Arid Desert,BWh,<5,None (regulated),Narrow + regulated,YES
+R04,Ganges,India,Patna,25.6,85.1,55,12000,1-5,Tropical Monsoon,Am,~60,Jul-Aug,Monsoon cloud,YES
+R05,Yangtze,China,Wuhan,30.6,114.3,23,22000,1-3,Humid Subtropical,Cfa,~55,Jun-Jul,Turbidity,YES
+R06,Mississippi,USA,Memphis,35.1,-90.0,75,16000,0.5-2,Humid Subtropical,Cfa,~45,Mar-May,Levees (moderate),YES
+R07,Rhine,Germany,Cologne,50.9,6.9,37,2300,0.2-0.4,Oceanic,Cfb,~60,Dec-Feb,Narrow width,YES
+R08,Ob,Russia,Salekhard,66.5,66.6,10,12800,2-5,Subarctic,Dfc,~40,May-Jun,Ice cover,YES
+R09,Niger,Nigeria,Niamey,13.5,2.1,200,1000,0.3-1.5,Tropical Savanna,Aw,~30,Sep-Oct,Intermittent flow,NO
+R10,Mekong,Laos,Vientiane,17.9,102.6,160,14000,0.5-2,Tropical Monsoon,Am,~60,Aug-Sep,Cloud + dam effects,NO
+R11,Danube,Romania,Delta,45.1,29.7,5,6500,0.2-1,Temperate,Cfa,~45,Mar-Apr,Delta complexity,NO
+R12,Murray,Australia,Mildura,-34.2,142.1,50,200,0.1-0.5,Semiarid,BSk,<20,Sep-Nov,Very low discharge,NO
+R13,Brahmaputra,India,Dibrugarh,27.5,95.0,90,19800,2-8,Monsoon,Am,>70,Jun-Jul,High cloud + braiding,NO
+R14,Irrawaddy,Myanmar,Mandalay,21.9,96.1,80,13000,0.5-2,Tropical Monsoon,Am,~65,Aug-Sep,Limited validation data,NO
