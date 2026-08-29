@@ -1,44 +1,59 @@
-<h1 align="center">Hi, I'm Bouchra 👋</h1>
+# Hi, I'm Bouchra
 
-<p align="center">
-  <b>Environmental data scientist · GIS & remote sensing for real-world conservation</b><br>
-  Duke Kunshan University &amp; Duke University 🇲🇦
-</p>
+I am from Morocco, and I map water.
 
----
+I grew up in the south, where the water is running out and people are leaving. That is the
+reason I learned remote sensing. I wanted to know whether the drying I kept hearing about was
+real, or whether it was the kind of thing people say about the past. It turned out I could
+measure it from space, with data that costs nothing.
 
-I care about one question: **how do we see environmental change clearly enough to act on it?**
-I use satellite imagery, GIS, and machine learning to turn open Earth-observation data
-into maps and stories that ordinary people — and the communities living the problem — can
-understand. My home country, Morocco, is running out of water, and a lot of my work starts there.
+Most of what I build starts from that question: how do you see an environmental change clearly
+enough that a community can act on it?
 
-- 🛰️ **Remote sensing & GIS** — Sentinel-2, QGIS/PyQGIS, Google Earth Engine, geopandas
-- 🌍 **Focus** — water stress, land cover, and community-scale conservation
-- 🧠 **Also** — physics-informed & probabilistic ML for the environment
-- 🗣️ Arabic · French · English
+## What I work on
 
-## 🌊 Featured project
+Satellite imagery and GIS for water and land: reservoirs, rainfall, vegetation, and the farms
+and towns that depend on them. I care about doing it honestly. Some of the work I am proudest
+of is where I was wrong and the data corrected me.
 
-**[morocco-water-stress](https://github.com/Bouchra159/morocco-water-stress)** — mapping Morocco's
-water crisis with open data. Using **Sentinel-2 satellite imagery**, I measured that the
-**Al Massira reservoir — which supplies ~7.7 million people and 96,000 ha of farmland — lost
-91% of its water surface between 2017 and 2024.** Built with a reproducible Python pipeline
-(World Bank API + NDWI/Otsu water mapping) and high-resolution **QGIS** cartography, including
-a community-conservation map of who depends on the vanishing reservoir.
+I speak Arabic, French and English, and I study environmental data science at Duke Kunshan
+University and Duke University.
 
-## 🗺️ More of my work
+## Running Dry: mapping water stress in Morocco
 
-| Project | What it is |
-|---------|------------|
-| [Geospatial-API-Toolkit](https://github.com/Bouchra159/Geospatial-API-Toolkit) | PlanetScope imagery pipeline: clustering locations, querying satellites, QGIS workflow |
-| [China-landcover-gee](https://github.com/Bouchra159/China-landcover-gee) | Land-cover mapping with Google Earth Engine |
-| [water-allocation-opt](https://github.com/Bouchra159/water-allocation-opt) | Reservoir water-allocation optimization (OR-Tools) — cuts shortage cost 45% |
-| [turbofan-rul](https://github.com/Bouchra159/turbofan-rul) | Predictive maintenance on NASA C-MAPSS (LSTM + calibrated uncertainty) |
+[**morocco-water-stress**](https://github.com/Bouchra159/morocco-water-stress)
 
-## 🛠️ Tools
+I measured the Al Massira reservoir, which holds the water Casablanca drinks, from Sentinel-2
+imagery every dry season from 2017 to 2026. It collapsed by 91%, from 98 square kilometres to
+9, and then came back to 125 after the record rains of 2026. I had written "the vanishing
+reservoir" before I saw that last year of data. The real story is not that the water is
+disappearing, it is that it swings violently, which is much harder to live with.
 
-`Python` · `geopandas` · `rasterio` · `QGIS / PyQGIS` · `Google Earth Engine` · `PyTorch` · `scikit-learn` · `Sentinel-2` · `STAC`
+Then I followed the water home, to Souss-Massa, and mapped why my region is dry: the High Atlas
+takes the rain. The north gets 287 mm a year, my side gets 99. The desert here is not an
+accident of latitude, the mountains make it.
 
-## 📫 Reach me
+Twelve maps, made in QGIS and ArcGIS Pro, and every one of them says what it cannot tell you.
 
-📧 bouchra1daddaoui@gmail.com
+## Other things I have built
+
+[Geospatial-API-Toolkit](https://github.com/Bouchra159/Geospatial-API-Toolkit) — a simpler way
+to find and pull PlanetScope imagery for a set of locations, and get it into QGIS.
+
+[China-landcover-gee](https://github.com/Bouchra159/China-landcover-gee) — land-cover mapping
+in Google Earth Engine.
+
+[water-allocation-opt](https://github.com/Bouchra159/water-allocation-opt) — deciding how to
+share a reservoir between competing users when there is not enough.
+
+[turbofan-rul](https://github.com/Bouchra159/turbofan-rul) — predicting when an engine will
+fail, and how confident that prediction really is.
+
+## Tools
+
+Python, rasterio, geopandas, QGIS and PyQGIS, ArcGIS Pro, Google Earth Engine, Sentinel-2,
+STAC, PyTorch, scikit-learn.
+
+## Get in touch
+
+bouchra1daddaoui@gmail.com
