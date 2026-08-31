@@ -1,7 +1,5 @@
 # Hi, I'm Bouchra
 
-I am from Morocco, and I map water.
-
 I grew up in the south, where the water is running out and people are leaving. That is the
 reason I learned remote sensing. I wanted to know whether the drying I kept hearing about was
 real, or whether it was the kind of thing people say about the past. It turned out I could
@@ -18,22 +16,6 @@ of is where I was wrong and the data corrected me.
 
 I speak Arabic, French and English, and I study environmental data science at Duke Kunshan
 University and Duke University.
-
-## Running Dry: mapping water stress in Morocco
-
-[**morocco-water-stress**](https://github.com/Bouchra159/morocco-water-stress)
-
-I measured the Al Massira reservoir, which holds the water Casablanca drinks, from Sentinel-2
-imagery every dry season from 2017 to 2026. It collapsed by 91%, from 98 square kilometres to
-9, and then came back to 125 after the record rains of 2026. I had written "the vanishing
-reservoir" before I saw that last year of data. The real story is not that the water is
-disappearing, it is that it swings violently, which is much harder to live with.
-
-Then I followed the water home, to Souss-Massa, and mapped why my region is dry: the High Atlas
-takes the rain. The north gets 287 mm a year, my side gets 99. The desert here is not an
-accident of latitude, the mountains make it.
-
-Twelve maps, made in QGIS and ArcGIS Pro, and every one of them says what it cannot tell you.
 
 ## Other things I have built
 
