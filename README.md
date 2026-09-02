@@ -1,6 +1,6 @@
 ### Bouchra Daddaoui
 
-AI and GIS for water.
+Computational science and AI for water.
 
 I work on the distance between what a map shows and what is actually there, which in dry places
 is usually wider than it looks. Satellites mostly, and open data only. Based in Morocco.
