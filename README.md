@@ -1,41 +1,18 @@
-# Hi, I'm Bouchra
+### Bouchra Daddaoui
 
-I grew up in the south, where the water is running out and people are leaving. That is the
-reason I learned remote sensing. I wanted to know whether the drying I kept hearing about was
-real, or whether it was the kind of thing people say about the past. It turned out I could
-measure it from space, with data that costs nothing.
+AI and GIS for water.
 
-Most of what I build starts from that question: how do you see an environmental change clearly
-enough that a community can act on it?
+I work on the distance between what a map shows and what is actually there, which in dry places
+is usually wider than it looks. Satellites mostly, and open data only. Based in Morocco.
 
-## What I work on
+| | |
+|---|---|
+| [**morocco-water-stress**](https://github.com/Bouchra159/morocco-water-stress) | A reservoir, a rain shadow and an aquifer, measured from open satellite data. Twelve maps, and three findings I had to take back. |
+| [**Geospatial-API-Toolkit**](https://github.com/Bouchra159/Geospatial-API-Toolkit) | Finding and pulling PlanetScope imagery for a set of locations, with less friction. |
+| [**China-landcover-gee**](https://github.com/Bouchra159/China-landcover-gee) | Land-cover change in the Yellow River Delta, in Earth Engine. |
+| [**water-allocation-opt**](https://github.com/Bouchra159/water-allocation-opt) | Sharing a reservoir between users when there is not enough of it. |
+| [**turbofan-rul**](https://github.com/Bouchra159/turbofan-rul) | Predicting when an engine fails, and how much to believe the prediction. |
 
-Satellite imagery and GIS for water and land: reservoirs, rainfall, vegetation, and the farms
-and towns that depend on them. I care about doing it honestly. Some of the work I am proudest
-of is where I was wrong and the data corrected me.
+Python · rasterio · GeoPandas · xarray · QGIS · ArcGIS Pro · Earth Engine · STAC · DuckDB · PyTorch
 
-I speak Arabic, French and English, and I study environmental data science at Duke Kunshan
-University and Duke University.
-
-## Other things I have built
-
-[Geospatial-API-Toolkit](https://github.com/Bouchra159/Geospatial-API-Toolkit) — a simpler way
-to find and pull PlanetScope imagery for a set of locations, and get it into QGIS.
-
-[China-landcover-gee](https://github.com/Bouchra159/China-landcover-gee) — land-cover mapping
-in Google Earth Engine.
-
-[water-allocation-opt](https://github.com/Bouchra159/water-allocation-opt) — deciding how to
-share a reservoir between competing users when there is not enough.
-
-[turbofan-rul](https://github.com/Bouchra159/turbofan-rul) — predicting when an engine will
-fail, and how confident that prediction really is.
-
-## Tools
-
-Python, rasterio, geopandas, QGIS and PyQGIS, ArcGIS Pro, Google Earth Engine, Sentinel-2,
-STAC, PyTorch, scikit-learn.
-
-## Get in touch
-
-bouchra1daddaoui@gmail.com
+Arabic, French, English. [bouchra1daddaoui@gmail.com](mailto:bouchra1daddaoui@gmail.com)
