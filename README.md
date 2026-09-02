@@ -15,4 +15,4 @@ is usually wider than it looks. Satellites mostly, and open data only. Based in 
 
 Python · rasterio · GeoPandas · xarray · QGIS · ArcGIS Pro · Earth Engine · STAC · DuckDB · PyTorch
 
-Arabic, French, English. [bouchra1daddaoui@gmail.com](mailto:bouchra1daddaoui@gmail.com)
+Arabic, French, Spanish, English, Chinese :) . [bouchra1daddaoui@gmail.com](mailto:bouchra1daddaoui@gmail.com)
