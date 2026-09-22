@@ -12,6 +12,7 @@ is usually wider than it looks. Satellites mostly, and open data only. Based in 
 | [**China-landcover-gee**](https://github.com/Bouchra159/China-landcover-gee) | Land-cover change in the Yellow River Delta, in Earth Engine. |
 | [**water-allocation-opt**](https://github.com/Bouchra159/water-allocation-opt) | Sharing a reservoir between users when there is not enough of it. |
 | [**turbofan-rul**](https://github.com/Bouchra159/turbofan-rul) | Predicting when an engine fails, and how much to believe the prediction. |
+| [**battery-rul**](https://github.com/Bouchra159/battery-rul) | Grading a used EV battery from a one-minute test instead of an hour-long one. |
 
 Python · rasterio · GeoPandas · xarray · QGIS · ArcGIS Pro · Earth Engine · STAC · DuckDB · PyTorch
 
