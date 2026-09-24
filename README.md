@@ -1,15 +1,8 @@
 ### Bouchra Daddaoui
 
 Machine learning, GIS and remote sensing for hydrology and climate data.
-Duke University / Duke Kunshan University '26 (B.Sc. Computational Science and Design). Based in Casablanca, Morocco.
 
 I work with precipitation, streamflow, reanalysis and satellite data, and I care most about whether a model's numbers can be trusted: calibration, uncertainty, and a control before any claim.
-
-**Currently**
-
-- Drought diagnostics and streamflow forecasting for Moroccan river basins (Oum Er-Rbia), using LSTM models on precipitation, ERA5 temperature, snow cover and evapotranspiration.
-- Optical vs SAR water detection across climate zones, with the Institute of Geophysics, Polish Academy of Sciences.
-- Training: ECMWF Destination Earth series, NASA ARSET, Climate Change AI Summer School, MenaML (KAUST), MLSS 2026 (Max Planck, Tübingen).
 
 **Selected work**
 
@@ -25,4 +18,4 @@ I work with precipitation, streamflow, reanalysis and satellite data, and I care
 Python · PyTorch · scikit-learn · xarray · rasterio · GeoPandas · QGIS · ArcGIS Pro · Google Earth Engine · STAC · SQL · R
 Data: ERA5, GLEAM, MODIS, Sentinel-1/2, NASA POWER
 
-Arabic, French, English, Mandarin. [LinkedIn](https://www.linkedin.com/in/bouchra-daddaoui-24a8a322b) · [bouchra1daddaoui@gmail.com](mailto:bouchra1daddaoui@gmail.com)
+Arabic, French, English, Mandarin, Spanish [LinkedIn](https://www.linkedin.com/in/bouchra-daddaoui-24a8a322b) · [bouchra1daddaoui@gmail.com](mailto:bouchra1daddaoui@gmail.com)
